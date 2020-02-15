@@ -1,0 +1,8 @@
+.article-tag {
+  background: var(--inlineCode-bg);
+  color: var(--inlineCode-text);
+  border-radius: 2px;
+  padding: 0px 5px;
+  margin: 0 5px 5px 0;
+  cursor: pointer
+}
